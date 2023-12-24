@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Kairus.Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinkai
+last_name: Zhang
 
 # Status emoji
 status:
@@ -17,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Industrial Software
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiaotong University
+    url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed control system, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - Embedded virtualization
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Control science and engineerin
+      institution: Shanghai Jiaotong University
+      start year: 2022
+    - course: MEng in Computer Application Technology
+      institution: University of Chinese Academy of Sciences
+      start year: 2019
+    - course: BSc in Computer Science and Technology
+      institution: Heze University
+      start year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,7 +93,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KairusZhang
     label: Follow me on Twitter
     display:
       header: true
@@ -105,10 +102,11 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/KairusZhang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/KairusZhang
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +118,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey!  I’m currently a PhD student at Shanghai Jiaotong University(SJTU), supervised by Prof. Wenbin Dai. I am deeply passionate about developing AI solutions that are beneficial to society and align with human values. I previously graduated from The University of Chinese Academy of Sciences(UCAS), and I also spent some time at Shenyang Institute of Computing Technology, Chinese Academy of Sciences prior to SJTU. You can call me Kairus or Xinkai Zhang (张新凯). My current research interests span across:
+Studying embedded virtualization of distributed control systems in the field of industrial software, Computer System security, and Intelligent system architecture design.
+The best way to reach me is through my email xinkaizhang@sjtu.edu.cn.
 {style="text-align: justify;"}
