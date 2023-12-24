@@ -117,8 +117,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Hey!  I’m currently a PhD student at Shanghai Jiaotong University(SJTU), supervised by Prof. Wenbin Dai. I am deeply passionate about developing AI solutions that are beneficial to society and align with human values. I previously graduated from The University of Chinese Academy of Sciences(UCAS), and I also spent some time at Shenyang Institute of Computing Technology, Chinese Academy of Sciences prior to SJTU. You can call me Kairus or Xinkai Zhang (张新凯). My current research interests span across:
+Hey!  I’m currently a PhD student at Shanghai Jiaotong University(SJTU), supervised by Prof. Wenbin Dai. I am deeply passionate about developing Security, Intelligent and Strategy software system meet the industrial field requirement. I previously graduated from The University of Chinese Academy of Sciences(UCAS), and I also spent some time at Shenyang Institute of Computing Technology, Chinese Academy of Sciences prior to SJTU. You can call me Kairus or Xinkai Zhang (张新凯). My current research interests span across:
 Studying embedded virtualization of distributed control systems in the field of industrial software, Computer System security, and Intelligent system architecture design.
 The best way to reach me is through my email xinkaizhang@sjtu.edu.cn.
 {style="text-align: justify;"}
