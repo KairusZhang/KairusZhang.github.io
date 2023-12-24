@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Control science and engineerin
+    - course: PhD in Control Science and Engineering
       institution: Shanghai Jiaotong University
       start year: 2022
     - course: MEng in Computer Application Technology
